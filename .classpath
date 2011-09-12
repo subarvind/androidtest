@@ -3,14 +3,14 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="gen"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
-	<classpathentry kind="lib" path="/Users/couchbase/AndroidGrocerySync/libs/commons-compress-1.0.jar"/>
-	<classpathentry kind="lib" path="/Users/couchbase/AndroidGrocerySync/libs/commons-io-2.0.1.jar"/>
-	<classpathentry kind="lib" path="/Users/couchbase/AndroidGrocerySync/libs/couchbase.jar"/>
-	<classpathentry kind="lib" path="/Users/couchbase/AndroidGrocerySync/libs/jackson-core-asl-1.8.5.jar"/>
-	<classpathentry kind="lib" path="/Users/couchbase/AndroidGrocerySync/libs/jackson-mapper-asl-1.8.5.jar"/>
-	<classpathentry kind="lib" path="/Users/couchbase/AndroidGrocerySync/libs/org.ektorp-1.2.1.jar" sourcepath="/Users/couchbase/org.ektorp.android-1.2.1.jar"/>
-	<classpathentry kind="lib" path="/Users/couchbase/AndroidGrocerySync/libs/org.ektorp.android-1.2.1.jar"/>
-	<classpathentry kind="lib" path="/Users/couchbase/AndroidGrocerySync/libs/slf4j-api-1.6.1.jar"/>
-	<classpathentry kind="lib" path="/Users/couchbase/AndroidGrocerySync/libs/slf4j-jdk14-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/AndroidGrocerySync/libs/commons-compress-1.0.jar"/>
+	<classpathentry kind="lib" path="/AndroidGrocerySync/libs/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/AndroidGrocerySync/libs/couchbase.jar"/>
+	<classpathentry kind="lib" path="/AndroidGrocerySync/libs/jackson-core-asl-1.8.5.jar"/>
+	<classpathentry kind="lib" path="/AndroidGrocerySync/libs/jackson-mapper-asl-1.8.5.jar"/>
+	<classpathentry kind="lib" path="/AndroidGrocerySync/libs/org.ektorp-1.2.1.jar" sourcepath="/Users/couchbase/org.ektorp-1.2.1-sources.jar"/>
+	<classpathentry kind="lib" path="/AndroidGrocerySync/libs/org.ektorp.android-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/AndroidGrocerySync/libs/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/AndroidGrocerySync/libs/slf4j-jdk14-1.6.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
