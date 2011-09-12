@@ -8,7 +8,7 @@
 	<classpathentry kind="lib" path="/Users/couchbase/AndroidGrocerySync/libs/couchbase.jar"/>
 	<classpathentry kind="lib" path="/Users/couchbase/AndroidGrocerySync/libs/jackson-core-asl-1.8.5.jar"/>
 	<classpathentry kind="lib" path="/Users/couchbase/AndroidGrocerySync/libs/jackson-mapper-asl-1.8.5.jar"/>
-	<classpathentry kind="lib" path="/Users/couchbase/AndroidGrocerySync/libs/org.ektorp-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/couchbase/AndroidGrocerySync/libs/org.ektorp-1.2.1.jar" sourcepath="/Users/couchbase/org.ektorp.android-1.2.1.jar"/>
 	<classpathentry kind="lib" path="/Users/couchbase/AndroidGrocerySync/libs/org.ektorp.android-1.2.1.jar"/>
 	<classpathentry kind="lib" path="/Users/couchbase/AndroidGrocerySync/libs/slf4j-api-1.6.1.jar"/>
 	<classpathentry kind="lib" path="/Users/couchbase/AndroidGrocerySync/libs/slf4j-jdk14-1.6.1.jar"/>
