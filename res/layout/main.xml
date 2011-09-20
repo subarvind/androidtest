@@ -9,5 +9,9 @@
     android:layout_width="fill_parent" 
     android:layout_height="wrap_content" 
     android:text="@string/hello"
-    />
+    /> 
+<Button android:text="Workload 1" 
+android:id="@+id/button1" android:layout_width="fill_parent" android:layout_height="wrap_content"></Button>
+<Button android:text="Workload 2" 
+android:id="@+id/button2" android:layout_width="fill_parent" android:layout_height="wrap_content"></Button>
 </LinearLayout>
